@@ -34,7 +34,7 @@ Example:
 
 ## Headers
 
-x-api-key: "AQ.Ab8RN6K3_h0qWWpHibMZGGr57emSs33CM5HAjUbQgXtcHWpsWA"
+x-api-key: "12345"
 
 ## Sample Output
 
